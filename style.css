@@ -1,0 +1,30 @@
+body{
+   font-family: sans-serif;
+   margin: 0;
+   background-color: orange;
+  max-width: 1000px; 
+  margin: 0 auto;     
+  padding: 40px 20px;
+
+}
+  img{
+      height: 50px;
+      width: 50px;
+  }
+  
+ header{
+     background-image: linear-gradient(orange, black);
+ }
+h3{
+    color: red;
+    font-family: segoe script bold;
+}
+main{
+   
+
+}
+footer{
+    color: red;
+    background-color: black;
+    
+}
